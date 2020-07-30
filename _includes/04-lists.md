@@ -1,8 +1,8 @@
 Hobbies:
 1. Reading
-  1. Magazine
-  2. Fiction
-  3. Newspaper
+   1. Magazine
+   2. Fiction
+   3. Newspaper
 2. Film
 3. Music
 
