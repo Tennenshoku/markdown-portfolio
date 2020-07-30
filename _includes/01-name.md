@@ -1,1 +1,7 @@
-Replace this with your name, and include a header.
+# Markdown Practice
+## A Secondary Title
+### Yet Another Title
+#### Continue
+##### There Is More
+###### One Last
+  
